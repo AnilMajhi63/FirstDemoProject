@@ -16,7 +16,7 @@ public class MessageService {
 		message.put(1l, new Message(101, "core java", "anilmajhi"));
 		message.put(2l, new Message(102, "Rest Api", "pinku"));
 		message.put(3l, new Message(103, "Spring", "pinku"));
-		message.put(3l, new Message(105, "php", "Sumant"));
+		message.put(3l, new Message(105, "php", "Sumant"));//Test1
 	}
 
 	public static List<Message> getAllMessage() {
