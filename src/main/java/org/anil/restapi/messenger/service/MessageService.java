@@ -19,6 +19,8 @@ public class MessageService {
 		message.put(3l, new Message(105, "php", "Sumant"));//Test1 Heigala checked in before 1 minute new changes 
 		//call kar
 		
+		message.put(3l, new Message(105, "php", "Sumant"));
+		
 	}
 
 	public static List<Message> getAllMessage() {
