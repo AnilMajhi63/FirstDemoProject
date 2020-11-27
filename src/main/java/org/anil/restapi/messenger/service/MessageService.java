@@ -25,6 +25,7 @@ public class MessageService {
 
 		message.put(3l, new Message(105, "php", "Sumant"));//Test1 Heigala checked in before 1 minute
 		message.put(3l, new Message(109, "web services", "suresh122"));
+		message.put(3l, new Message(109, "web services", "suda"));
 
 	}
 
